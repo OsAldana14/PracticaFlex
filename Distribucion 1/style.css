@@ -1,0 +1,27 @@
+*{
+    border: transparent;
+    align-items: space-between; 
+    padding: 1.5px;
+}
+.Header>.head{
+    display: flex;
+    flex: 0 0 100px;
+    background-color: cyan;
+    justify-content: center;
+}
+
+.Body>.body{
+    display: flex;
+    flex: 0 0 100px; 
+    background-color: red;
+    justify-content: center;
+    height: 600px;
+    justify-content: center;
+    align-items: center;
+}
+.Footer>.foot{
+    display: flex;
+    flex: 0 0 100px;
+    background-color: yellow;
+    justify-content: center;
+}
