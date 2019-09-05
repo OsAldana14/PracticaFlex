@@ -1,0 +1,46 @@
+
+header{
+    display: flex;
+    flex-direction: row; 
+    height:125px;     
+    flex-wrap: wrap;
+}
+
+.rectangleTop{
+    flex: 1 0 150px;
+    background:gray;
+    justify-content: space-between; 
+}
+
+main{  
+    display: flex;
+    flex: 1 0 300px;
+}
+
+.sec1{  
+    background:blue;
+    width: 500px;
+    height: 375spx;
+    flex: 1 0 300px;
+}
+
+.sec2{
+    background:blue;
+    width: 500px;
+    height: 375px;
+    flex: 1 0 300px;
+    margin-left: 7px; 
+}
+
+footer{
+    display: flex;
+    flex-direction: row;    
+    height:125px;     
+    flex-wrap: wrap; 
+}
+
+.rectangleFooter{
+    flex: 1 0 150px;
+    background:gray;
+    justify-content: space-between; 
+}
