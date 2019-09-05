@@ -1,0 +1,51 @@
+.top {
+    display: flex;
+}
+.top>.arriba {
+    flex: 1 1 200px;
+    background-color: aqua;
+    border: solid 1px;
+    height: 100px;
+    flex-flow: wrap;
+}
+
+
+.middle {
+    display: flex;
+    width: 100%;
+    margin-top: 5px; 
+}
+.middle> .medio1 {
+    flex: 1 1 200px;
+    background-color: red;
+    border: solid 1px;
+    height: 600px;
+    justify-content: space-between;
+}
+
+.middle> .medio2 {
+    flex: 1 1 200px;
+    background-color: red;
+    border: solid 1px;
+    height: 600px;
+
+}
+
+.middle> .medio3 {
+    flex: 1 1 200px;
+    background-color: red;
+    border: solid 1px;
+    height: 600px;
+}
+
+.bottom {
+    display: flex;
+    margin-top: 5px; 
+}
+
+.bottom> .abajo {
+    flex: 1 1 200px;
+    background-color: green;
+    border: solid 1px;
+    height: 100px;
+}
