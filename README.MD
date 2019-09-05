@@ -4,9 +4,9 @@ Ejercicio de clase
 
 # Colaboradores
 
- - Oscar Aldana.
- - Eduardo Castellon.
- - Bryan Orellana.
+ - Oscar Isai Aldana Cruz.
+ - Eduardo Antonio Aguilar Castellon.
+ - Bryan Alexis Orellana Cabrera.
 
 
  
